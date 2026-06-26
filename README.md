@@ -68,6 +68,10 @@ Here are some of the technologies and tools that i had experience with:
 
 ### 🚀 Projects
 
+* **MedNotes** - An AI-powered SaaS to summarize doctors' patient notes and provide a complete e-mail for the patient with further guidance.
+    * https://github.com/LucasMacieel/ai-healthcare-saas
+* **Digital Twin** - An interactive, high-performance, serverless digital twin of Lucas Maciel Sousa, designed to answer questions about his career, education, specialties, and professional background.
+    * https://github.com/LucasMacieel/ai-digital-twin
 * **SIEVE AI** -  A hybrid engine that combines deep semantic understanding with precise keyword analysis designed to ensure a clear and accurate view of any document's integrity.
     * https://github.com/LucasMacieel/plagiarism_detector
 
